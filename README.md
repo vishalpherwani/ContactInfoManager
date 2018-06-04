@@ -1,6 +1,6 @@
 # ContactInfoManager
 
-![alt text](https://github.com/vishalpherwani/ContactInfoManager/ContactManagerUI.png)
+![alt text](https://github.com/vishalpherwani/ContactInfoManager/blob/master/ContactManagerUI.png)
 
 # Deployment procedure
 
